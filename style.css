@@ -1,0 +1,190 @@
+*
+{
+    margin=0;
+    padding=0;
+}
+#nav-bar
+{
+    position:sticky;
+    top:0;
+    z-index:10;
+}
+.nav-bar img
+{
+    height: 40px;
+    padding-left: 30px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float:right;
+    text-align: left;
+}
+nav-bar ul li a:hover
+{
+    color: white;
+}
+.navbar
+{
+    background-image: url(photos/e7cadcba766c75699a566c1c7933e517.jpg);
+    background-size: cover;
+}
+.navbar-toggler
+{
+    border:none!important;
+}
+.nav-link
+{
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+    font-family: fantasy;
+}
+
+.about-content
+{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-family: cursive;
+    font-size: 25;
+}
+.row h2
+{   
+    padding-top: 50px;
+    padding-left: 30px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 40;
+}
+.status h1
+{
+    padding-top: 50px;
+    padding-left: 20px;
+    
+    font-family: fantasy;
+    font-size: 40;
+}
+.status h2
+{
+    padding-top:15px;
+    padding-left:20px; 
+    font-family:sans-serif; 
+    font-size: 35;
+   
+}
+.ssc-content
+{
+    padding-top: 10px;
+    padding-left: 20px;
+    
+    align-content: center;
+    align-items: center;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.hsc-content
+{
+    padding-top: 10px;
+    padding-left: 20px;
+    
+    align-content: center;
+    align-items: center;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.mtech-content
+{
+    padding-top: 10px;
+    padding-left: 20px;
+    
+    align-content: center;
+    align-items: center;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+#skill h1
+{
+    padding-top: 100px;
+    padding-left: 30px;
+    font-family: fantasy;
+    font-size: 40px;
+}
+.skill-bar
+{
+    font-family: cursive;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.skill-bar h2{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.skill{
+    background: grey;
+    width: 50%;
+    padding: 4px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.skill-level
+{
+    background: black;
+    width: 50%;
+    height: 10px;
+}
+#Projects h1
+{
+    padding-top: 50px;
+    padding-left: 30px;
+    font-family: fantasy;
+    font-size: 40px;
+}
+.project
+{
+    padding-top: 10px;
+    padding-left: 25px;
+    font-family: cursive;
+    font-size: 25px;
+}
+#contact h1
+{
+    padding-top:50px;
+    padding-left: 20px;
+    font-family: fantasy;
+    font-size: 40px;
+}
+.contact
+{
+    padding-top: 10px;
+    padding-left: 25px;
+    font-family: cursive;
+    font-size: 25px;
+}
+.back-img
+{
+    width:100%;
+    height:100vp;    
+    background-image: url(photos/861434-top-anime-background-1920x1080-xiaomi.jpg);
+    background-size: cover;
+
+}
+.profile h1
+{
+    padding-top: 30px;
+    font-family: cursive;
+    padding-left: 15px;
+}
+.profile h2
+{
+    font-family: cursive;
+    padding-left: 20px;
+}
